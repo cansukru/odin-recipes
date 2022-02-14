@@ -1,2 +1,2 @@
 # odin-recipes
-HTLM repository 
+Cooking Recipes Website 
